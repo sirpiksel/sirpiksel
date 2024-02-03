@@ -72,17 +72,7 @@ When I'm not working on anything CS-related, I'm most likely spending some quali
 
 ## 📈 public Stats
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=github_dark_dimmed&hide=mcfunction,tex&langs_count=10&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=default&hide=mcfunction,tex&langs_count=10&layout=donut"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=transparent&hide=mcfunction,tex&langs_count=10&layout=donut"
-    media="(prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=&hide=mcfunction,tex&langs_count=10&layout=donut" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=github_dark&hide=mcfunction,tex&langs_count=10&layout=donut">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=default&hide=mcfunction,tex&langs_count=10&layout=donut">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&theme=transparent&hide=mcfunction,tex&langs_count=10&layout=donut">
 </picture>
