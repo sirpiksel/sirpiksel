@@ -73,6 +73,5 @@ When I'm not working on anything CS-related, I'm most likely spending some quali
 ## 📈 public Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=mcfunction,tex&langs_count=10&layout=donut&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=mcfunction,tex&langs_count=10&layout=donut&theme=default">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=mcfunction,tex&langs_count=10&layout=donut&theme=transparent">
 </picture>
