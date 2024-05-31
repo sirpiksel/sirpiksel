@@ -71,7 +71,4 @@ When I'm not working on anything CS-related, I'm most likely spending some quali
   <img src="https://img.shields.io/badge/🇫🇷_French-101214?style=for-the-badge" alt="French">
 
 ## 📈 public Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=mcfunction,tex&langs_count=10&layout=donut&theme=github_dark">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=mcfunction,tex&langs_count=10&layout=donut&theme=transparent">
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirpiksel&hide=tex,mcfunction&langs_count=10&layout=donut&theme=github_dark" alt="Most Used Languages">
