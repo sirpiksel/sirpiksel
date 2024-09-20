@@ -4,7 +4,7 @@ Hello, I'm Philip. 👋
 I am currently working on my undergraduate degree at the University of Heidelberg.
 In my free time, I like to work with bleeding-edge technology and try it out for a bit.
 
-When I'm not working on anything CS-related, I'm most likely spending some quality off-time in a bouldering gym. Having received a basic design education through my secondary school, I sometimes dabble in some personal graphic design projects.
+When I'm not working on anything CompSci-related, I'm most likely spending some quality off-time in a bouldering gym. Having received a basic design education through my secondary school, I sometimes dabble in some personal graphic design projects.
 
 ## 🤖 most used Tech
 <details>
